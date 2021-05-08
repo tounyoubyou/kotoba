@@ -11,7 +11,7 @@ config_version=4
 [application]
 
 config/name="New"
-run/main_scene="res://MainScene.tscn"
+run/main_scene="res://title screen.tscn"
 
 [display]
 
